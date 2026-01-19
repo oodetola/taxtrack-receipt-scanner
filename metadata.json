@@ -1,0 +1,7 @@
+{
+  "name": "TaxTrack Private Scanner",
+  "description": "A 100% private, offline receipt recording tool. All processing and image storage happens locally on your device's drive.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
